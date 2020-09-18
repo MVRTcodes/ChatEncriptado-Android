@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Chat Missatgeria</string>
+    <string-array name="tiposenc">
+        <item>Hash</item>
+        <item>Simetric(Chat)</item>
+        <item>Asimetric(Chat)</item>
+        <item>Firma Digital</item>
+    </string-array>
+</resources>
